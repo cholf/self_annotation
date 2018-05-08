@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="processor:war">
+    <output-path>$PROJECT_DIR$/processor/target</output-path>
+    <root id="archive" name="proccessor-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="processor:war exploded" />
+    </root>
+  </artifact>
+</component>
