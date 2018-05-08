@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="fconfig" />
         <module name="proccessor" />
+        <module name="processor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="fconfig" target="1.7" />
       <module name="proccessor" target="1.7" />
+      <module name="processor" target="1.8" />
       <module name="self_annotation" target="1.5" />
     </bytecodeTargetLevel>
   </component>
