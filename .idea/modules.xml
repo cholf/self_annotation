@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fconfig/fconfig.iml" filepath="$PROJECT_DIR$/fconfig/fconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proccessor/proccessor.iml" filepath="$PROJECT_DIR$/proccessor/proccessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/self_annotation.iml" filepath="$PROJECT_DIR$/self_annotation.iml" />
+    </modules>
+  </component>
+</project>
